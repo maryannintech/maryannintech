@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning Web Development.
 * 🔭 I’m currently working on The Odin Project course.
-* 🤔 I’m looking for help with any advance Javascript related.
+* 🤔 I’m looking for help with any advance JavaScript related.
 * 📫 How to reach me: @maryannscoding on Twitter!
 * 😄 Pronouns: She/Her.
 * ⚡ Fun fact: I love movies and TV shows.
