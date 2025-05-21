@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mary Ann!
+# 🌊 Hi, I'm Mary Ann!
 
 ### Welcome to my GitHub profile! Here's a little bit about me:
 
-* 🌱 I’m currently learning Web Development.
-* 🔭 I’m currently working on The Odin Project course.
-* 🤔 I’m looking for help with any advance JavaScript related.
+* ⚓ I'm currently relearning the basics of web development after taking a break due to schooling and other priorities.
+* 🐚 Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to strengthen my skills.
+* 🌱 I'm especially interested in growing my understanding of JavaScript and exploring more advanced topics over time.
 * 😄 Pronouns: She/Her.
 * ⚡ Fun fact: I love movies and TV shows.
 
