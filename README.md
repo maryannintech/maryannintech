@@ -1,4 +1,4 @@
-# hi, i'm Mary Ann!
+# hi, i'm Mary Ann! 🐻‍❄️
 
 ### Welcome to my GitHub profile! Here's a little bit about me:
 
