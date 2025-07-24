@@ -7,7 +7,7 @@
 * i'm especially interested in growing my understanding of JavaScript and exploring more advanced topics over time.
 * pronouns: She/Her.
 
-## what i'm working on
+## What i'm working on
 - **Sincerely, Me** — A web app where users can write letters to their future selves. Built with React + Supabase.
 
  
