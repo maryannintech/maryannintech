@@ -8,6 +8,6 @@
 * pronouns: She/Her.
 
 ## What I'm working on
-* **Sincerely, Me** — A web app where users can write letters to their future selves. Built with React + Supabase.
+✅ **Sincerely, Me** — A web app where users can write letters to their future selves. Built with React + Supabase.
 
  
