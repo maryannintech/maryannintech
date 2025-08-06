@@ -12,6 +12,6 @@ Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to 
 
 ### What I'm working on
 
-- ✅ **Sincerely, Me** — A web app where users can write letters to their future selves. Built with React + Supabase.
+- ⚒️ **Skill Garden** — A self-coaching web app to help you track what you want to learn — in a visual, motivating way.
 
  
