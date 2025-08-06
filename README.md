@@ -12,6 +12,6 @@ Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to 
 
 ### What I'm working on
 
-- ⚒️ **Skill Garden** — A self-coaching web app to help you track what you want to learn — in a visual, motivating way.
+- ⚒️ **Skill Garden** — A self-coaching web app to help you track what you want to learn. Using Vanilla JS
 
  
