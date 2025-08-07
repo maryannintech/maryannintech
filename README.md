@@ -6,7 +6,7 @@ I'm currently relearning the basics of web development after taking a break. My 
 
 Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to strengthen my skills. I'm also currently learning React. I'm especially interested in growing my understanding of JavaScript and exploring more advanced topics with the goal of making a full-stack website.
 
-**Pronouns**: She/Her.
+**Pronouns**: She/Her
 
 ---
 
