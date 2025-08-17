@@ -13,5 +13,4 @@ Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to 
 🟠 - Haven't started | 🔵 - In progress
 
 - 🟠 **Skill Garden** — A self-coaching web app to help you track what you want to learn. Built with Vanilla JS.
-- 🔵 **Dynamic Guestbook** — A simple web application where visitors can submit their name and message, which are then stored and displayed dynamically. Built with PHP, HTML, and CSS
  
