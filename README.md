@@ -12,5 +12,5 @@ Right now, I'm focused on HTML, CSS, and JavaScript, building small projects to 
 ### What I'm working on
 🟠 - Haven't started | 🔵 - In progress
 
-- 🟠 **Skill Garden** — A self-coaching web app to help you track what you want to learn. Built with Vanilla JS.
+- 🔵 - Kahit Saan - A shared restaurant wishlist web app where couples or groups can list restaurants they want to try, mark places as visited, and keep track of food adventures together. React and Supabase
  
